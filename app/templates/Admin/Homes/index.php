@@ -367,7 +367,7 @@
                         <p class="card-title">Notifications</p>
                         <ul class="icon-data-list">
                             <li>
-                                <div class="d-flex">
+                 <div class="d-flex">
                                     <img src="/admin/images/faces/face1.jpg" alt="user">
                                     <div>
                                         <p class="text-info mb-1">Isabella Becker</p>
@@ -381,7 +381,7 @@
                                     <img src="/admin/images/faces/face2.jpg" alt="user">
                                     <div>
                                         <p class="text-info mb-1">Adam Warren</p>
-                                        <p class="mb-0">You have done a great job #TW111</p>
+                                      <p class="mb-0">You have done a great job #TW111</p>
                                         <small>10:30 am</small>
                                     </div>
                                 </div>
